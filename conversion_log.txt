@@ -1,0 +1,5 @@
+Conversion Log
+----------------
+Searching for Markdown files in: .
+Successfully converted ./first-session/introduction-to-open-source-software/bienvenidos-a-hackapet.md to ./first-session/introduction-to-open-source-software/bienvenidos-a-hackapet.pdf
+All conversions complete!
